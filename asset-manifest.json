@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.97e052d3.chunk.css",
-    "main.js": "/static/js/main.88350dfe.chunk.js",
-    "main.js.map": "/static/js/main.88350dfe.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b817e1a7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b817e1a7.js.map",
-    "static/css/2.90e57925.chunk.css": "/static/css/2.90e57925.chunk.css",
-    "static/js/2.71bcca34.chunk.js": "/static/js/2.71bcca34.chunk.js",
-    "static/js/2.71bcca34.chunk.js.map": "/static/js/2.71bcca34.chunk.js.map",
-    "static/js/3.ad67aef1.chunk.js": "/static/js/3.ad67aef1.chunk.js",
-    "static/js/3.ad67aef1.chunk.js.map": "/static/js/3.ad67aef1.chunk.js.map",
+    "main.css": "/static/css/main.9123b69c.css",
+    "main.js": "/static/js/main.d525362b.js",
+    "static/js/787.e77b8cba.chunk.js": "/static/js/787.e77b8cba.chunk.js",
+    "static/media/aldo.png": "/static/media/aldo.9743007385afdaa6843e.png",
+    "static/media/abc_sample_1.png": "/static/media/abc_sample_1.ca403a95ccf26977cf71.png",
+    "static/media/mana_sample_1.png": "/static/media/mana_sample_1.23a96169010e0ea72704.png",
+    "static/media/lajual_sample_1.png": "/static/media/lajual_sample_1.75c49bf2117d05b47206.png",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Thin.ttf": "/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/abc_sample_3.png": "/static/media/abc_sample_3.ea41dbedbf2af66ea6bc.png",
+    "static/media/mana_sample_2.png": "/static/media/mana_sample_2.df2d18eaf95254a2b435.png",
+    "static/media/abc_sample_2.png": "/static/media/abc_sample_2.891b57d1493d08c21301.png",
+    "static/media/mana_sample_3.png": "/static/media/mana_sample_3.58cc5aef577eecf7c440.png",
     "index.html": "/index.html",
-    "static/css/2.90e57925.chunk.css.map": "/static/css/2.90e57925.chunk.css.map",
-    "static/css/main.97e052d3.chunk.css.map": "/static/css/main.97e052d3.chunk.css.map",
-    "static/js/2.71bcca34.chunk.js.LICENSE.txt": "/static/js/2.71bcca34.chunk.js.LICENSE.txt"
+    "main.9123b69c.css.map": "/static/css/main.9123b69c.css.map",
+    "main.d525362b.js.map": "/static/js/main.d525362b.js.map",
+    "787.e77b8cba.chunk.js.map": "/static/js/787.e77b8cba.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b817e1a7.js",
-    "static/css/2.90e57925.chunk.css",
-    "static/js/2.71bcca34.chunk.js",
-    "static/css/main.97e052d3.chunk.css",
-    "static/js/main.88350dfe.chunk.js"
+    "static/css/main.9123b69c.css",
+    "static/js/main.d525362b.js"
   ]
 }
